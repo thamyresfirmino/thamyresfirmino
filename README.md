@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Olá! Welcome to my GitHub profile
 
-<!--
-**thamyresfirmino/thamyresfirmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student in Applied Economics. My research focuses on crime, labor, and regional economics. I am particularly interested in applied econometrics, especially causal inference methods using instrumental variables and panel data models with fixed effects.
 
-Here are some ideas to get you started:
+### 🧠 Research Interests
+- Applied microeconometrics
+- Public policy evaluation
+- Crime economics
+- Labor and regional economics
+- Causal inference (IV, DiD, fixed effects)
+- Panel data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Skills
+- 🟢 Stata (daily use)
+- 🔵 R (basic knowledge, improving)
+- 🐍 Python (learning)
+- 📊 Econometric modeling
+- 🗃️ Data cleaning and transformation
+
+### 📁 Projects
+I use this GitHub to:
+- Reproduce empirical papers using public data
+- Share code from my own academic work
+- Document my learning process in R and Python
+
+### 📚 Education
+- 🎓 PhD in Applied Economics – in progress
+- 🎓 MSc in Economics – focus on regional and labor economics
+
+### 🌎 Languages
+- 🇧🇷 Portuguese (native)
+- 🇬🇧 English (advanced)
+
+### 📬 Contact
+Feel free to reach out if you're interested in research collaboration, data/code replication, or econometrics in general!
+
+📧 [thamyresfirmino13@gmail.com]  
+
